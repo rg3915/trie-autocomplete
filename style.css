@@ -1,0 +1,23 @@
+div.columns {
+  margin-top: 80px;
+}
+
+h1 {
+  width: 100%;
+  margin-top: 70px;
+  color: green !important
+}
+
+div.columns {
+  margin-top: 20px;
+}
+
+.list-item {
+  color: black !important;
+}
+
+.mytag {
+  float: right;
+  background-color: #f14668;
+  color: #fff;
+}
